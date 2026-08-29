@@ -67,4 +67,4 @@ print(f"Go find us a beach ball, {invitees[(int(len(invitees) / 2) + 1)]}")
 invitees.append(new_invitees[2])
 
 print(f"We have to have a modern rapper, so I invited {new_invitees[2]}\n")
-print("Alright, I'm done - too many people here.")
+print("Alright, I'm done - too many people here. I'm not printing a new message for each person.")
