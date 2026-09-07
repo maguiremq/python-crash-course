@@ -4,23 +4,6 @@
 # $15. Write a loop in which you ask users their age, and then tell them the cost
 # of their movie ticket.
 
-# total_people = int(input("Welcome to the movie theater. How many people in your party?"))
-
-# for person in range(0, total_people):
-#     total = 0
-#     person_age = int(input(f"How old is person #{person + 1}?"))
-#     if person_age > 0 and person_age < 3:
-#         print(f"A person who is {person_age} is free - no charge!")
-#     elif person_age >= 3 and person_age < 13:
-#         print(f"A person who is {person_age} costs $10 to enter the movie theater.")
-#         total += 10
-#     else:
-#         print(f"A person who is {person_age} costs $15 to enter the movie theater.")
-#         total += 15
-#     print(f"The final total is ${total} and I only take cash.")
-
-# print(f"The total charge is: ${total} and I only take cash.")
-
 total = 0
 
 while True:
