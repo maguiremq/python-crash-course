@@ -17,5 +17,6 @@ print(f"They are {person.get('age')} and live in {person.get('city')}, Florida.\
 print("-----------------------------------------------------------")
 print("Testing my prior knowledge on `for` loops with a dictionary.")
 print("-----------------------------------------------------------\n")
+
 for key, value in person.items():
     print(f"Key is: `{key}`; Value is '{value}'\n")

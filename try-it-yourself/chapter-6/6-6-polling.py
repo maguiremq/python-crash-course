@@ -16,6 +16,7 @@ people_to_poll = [
     , 'michael'
     , 'john'
     , 'sarah'
+    ,
 ]
 
 # • Loop through the list of people who should take the poll. If they have
